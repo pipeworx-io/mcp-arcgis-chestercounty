@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/arcgis-chestercounty",
   "title": "Arcgis Chestercounty",
   "description": "Chester County GIS — Chester County, Pennsylvania open geospatial data (ArcGIS).",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "websiteUrl": "https://pipeworx.io/packs/arcgis-chestercounty",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-arcgis-chestercounty",
