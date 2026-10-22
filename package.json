@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-chestercounty",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Chester County GIS — Chester County, Pennsylvania open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-2c74e77b43fa1df2be48b95911fa52e5f7fff3e22f7487428532752a009bf814",
-    "sourceCommit": "351c40908821cfecc9bb2f5849d87bbfdbb26d75"
+    "sourceHash": "v1-66881bcf9765bd3a93f86cd8b99c8f065cb7b589d5340b48e8c22954fff0a1a4",
+    "sourceCommit": "71f5325b13bb0ea0de2f0f7207885962ec91a484"
   }
 }
